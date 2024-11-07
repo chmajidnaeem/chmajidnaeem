@@ -26,11 +26,11 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 
 - 🌱 I’m currently learning **Devops Cloud Blockchain**
 
-- 📝 I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir)
+- 📝 <!-- I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir) -->
 
 - 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots Generative AI**
 
-- 📫 How to reach me **chmajidnaeem@hotmail.com**
+- 📫 How to reach me **chmajidnaeem**
 
   
 - Web and Applications
