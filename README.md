@@ -1,4 +1,5 @@
 
+ <!--
 ![MishManners Room animated new](https://www.ismartrecruit.com/assets/frontend/images/isr-learn_more-AI_&_Automation/Chat-Bot.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center"> Hi there 👋 hope you're good.</h1>
@@ -18,6 +19,7 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 
 
  <hr/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariba-memon&label=Profile%20views&color=0e75b6&style=flat" alt="ariba-memon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariba-memon" alt="ariba-memon" /></a> </p>
@@ -141,7 +143,7 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/adobe%20xd-%23FF26BE.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD">
 </p>
-
+-->
 
 
 
