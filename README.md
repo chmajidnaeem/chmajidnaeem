@@ -30,7 +30,7 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 
 - 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots Generative AI**
 
-- 📫 How to reach me **aribaabdulqadir786@gmail.com**
+- 📫 How to reach me **chmajidnaeem@hotmail.com**
 
   
 - Web and Applications
