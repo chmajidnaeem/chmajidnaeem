@@ -1,7 +1,7 @@
 
 
 ![MishManners Room animated new](https://www.ismartrecruit.com/assets/frontend/images/isr-learn_more-AI_&_Automation/Chat-Bot.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h1 align="center"> Hi there 👋 hope you're good.</h1>
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
