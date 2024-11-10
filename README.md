@@ -16,12 +16,6 @@ Based in UK, I am committed to pushing the technological envelope and delivering
 
  <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chmajidnaeem&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
-- 🌱 I’m currently learning **Devops Cloud Blockchain**
-
-- 📝 <!-- I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir) -->
-
 - 💬 Ask me about **ReactJs Angular ReactNative Material UI Bootstrap AI Cloud Solutions **
 
 - 📫 How to reach me **chmajidnaeem@hotmail.com**
