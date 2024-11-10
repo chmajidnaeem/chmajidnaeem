@@ -6,33 +6,29 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ariba+Memon!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Majid+Naeem!;" />
 </h1>
-<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, React Native, Nuxt JS, Laravel, PHP, WordPress, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Tailwind CSS, Shadow CSS, Material UI, Chakra UI, Daisy UI, and Ant Design to enhance the user experience.
+<h3 align="center">I am a highly motivated Full Stack Developer & Solution Architect, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web, cloud and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, Asp.net Core, C#, Angular, Azure, NextJS, NodeJS, Python, MongoDB, ExpressJS, React Native, Nuxt JS, Laravel, PHP, WordPress, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Bootstrap, Material UI, and Semantics UI to enhance the user experience.
 
-With over 4 years of hands-on experience, I have refined my skills in developing interactive and scalable solutions that cater to diverse user needs. My dedication extends to the realm of Chatbots, where I have invested significant time and effort in crafting intelligent conversational agents.
+With over 18 years of hands-on experience, I have refined my skills in developing interactive and scalable solutions that cater to diverse user needs. My dedication extends to the realm of Chatbots, where I have invested significant time and effort in crafting intelligent conversational agents.
 
-Proficient in implementing Chatbot solutions across platforms such as Alexa and Dialogflow, I ensure seamless interactions and elevate user experiences. Moreover, my proficiency in Generative AI allows me to explore various libraries and frameworks, pushing the boundaries of creativity in my projects.
+ I have primarily been engaged in technical activities such as architecture, design, application development, and project management tasks as well, such as requirement analysis, sprint planning, and scrum planning. I possess hands-on experience in web and database applications, utilizing cutting-edge technical skills. I have a strong passion for innovative and challenging fields, as well as emerging technologies. 
 
-Based in Pakistan, I am committed to pushing the technological envelope and delivering exceptional solutions that meet the ever-evolving demands of the digital landscape. As a modern full-stack developer, I am driven by a relentless pursuit of excellence and innovation.</h3>
+Based in UK, I am committed to pushing the technological envelope and delivering exceptional solutions that meet the ever-evolving demands of the digital landscape. As a modern full-stack developer, I am driven by a relentless pursuit of excellence and innovation.</h3>
 
 
 
  <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariba-memon&label=Profile%20views&color=0e75b6&style=flat" alt="ariba-memon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariba-memon" alt="ariba-memon" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aribamemon786" target="blank"><img src="https://img.shields.io/twitter/follow/aribamemon786?logo=twitter&style=for-the-badge" alt="aribamemon786" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chmajidnaeem&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I’m currently learning **Devops Cloud Blockchain**
 
 - 📝 <!-- I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir) -->
 
-- 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots Generative AI**
+- 💬 Ask me about **ReactJs Angular ReactNative Material UI Bootstrap AI Cloud Solutions **
 
-- 📫 How to reach me **chmajidnaeem**
+- 📫 How to reach me **chmajidnaeem@hotmail.com**
 
   
 - Web and Applications
@@ -45,32 +41,6 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
 - Amazon Alexa skill - Alexa smart home apps.
 - WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
 - All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/aribamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aribamemon" height="30" width="40" /></a>
-<a href="https://twitter.com/aribamemon786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aribamemon786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thearibamemon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17882455/ariba-abdul-qadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17882455/ariba-abdul-qadir" height="30" width="40" /></a>
-<a href="https://fb.com/thearibamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thearibamemon" height="30" width="40" /></a>
-<a href="https://www.behance.net/aaqgraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aaqgraphics" height="30" width="40" /></a>
-<a href="https://medium.com/@aribaabdulqadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aribaabdulqadir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codingtechnicalstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingtechnicalstar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aribamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aribamemon" height="30" width="40" /></a>
-<a href="https://discord.gg/aribamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aribamemon" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="center">🎓Certifications:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp">
-    <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="Udacity">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">
-    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks">
-    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
-</p>
-
 
 <h3 align="center">📚Languages, Tools, Frameworks:</h3>
 <p align="center">
@@ -106,8 +76,6 @@ Based in Pakistan, I am committed to pushing the technological envelope and deli
     <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 
 </p>
-
-
 <h3 align="center">🤖 Artificial Intelligence and Chatbots</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" alt="Amazon Alexa">
