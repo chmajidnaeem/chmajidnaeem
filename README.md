@@ -28,7 +28,7 @@ Based in UK, I am committed to pushing the technological envelope and delivering
 - Modern Full Stack 
 - Intelligent phone call / IVR Chatbot.
 - Google assistant apps - Google smart home apps.
-- Amazon Alexa skill - Alexa smart home apps.
+- Cloud Azure & AWS Skills.
 - WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
 - All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
 
