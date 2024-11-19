@@ -18,7 +18,7 @@ Based in UK, I am committed to pushing the technological envelope and delivering
 
 - 💬 Ask me about **ReactJs Angular ReactNative Material UI Bootstrap AI Cloud Solutions **
 
-- 📫 How to reach me **chmajidnaeem**
+- 📫 How to reach me **majid.naeem@gmail.com**
 
   
 - Web and Applications
